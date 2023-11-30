@@ -1,5 +1,5 @@
 Web-Technologies-Individual-Assignment
-MUHAMMAD AL SYAHMI BIN MOHD WARDI 2127171 
+MUHAMMAD AL SYAHMI BIN MOHD WARDI 2127171 SECTION 1
 
 JavaScript Interaction: Submit button
 - Collect data from the user.
